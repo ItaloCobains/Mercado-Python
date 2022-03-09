@@ -1,2 +1,2 @@
 # Mercado-Python
-Project Banco em python
+Simulador de Mercado em python 
