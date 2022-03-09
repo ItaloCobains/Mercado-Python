@@ -75,7 +75,7 @@ def listar_produtos() -> None:
     else:
         print('Ainda não existem produtos cadrastrados.')
     sleep(2)
-    menu
+    menu()
 
 
 def comprar_produto() -> None:
